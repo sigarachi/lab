@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FoodZilla</string>
+    <string name="order_food">Order food</string>
+    <string name="order">Order</string>
+    <string name="my_order">My Order</string>
+    <string name="order_dishes">Dishes cost</string>
+    <string name="delivery_cost">Delivery</string>
+    <string name="service_task">Tax</string>
+    <string name="total">Total</string>
+    <string name="homeBtn">Home</string>
+    <string name="profileBtn">Profile</string>
+    <string name="supportBtn">Support</string>
+    <string name="settingsBtn">Settings</string>
+    <string name="helloMsg">Hello</string>
+    <string name="mainSub">Order your favorite food</string>
+    <string name="category">Category</string>
+    <string name="popular">Popular</string>
+</resources>

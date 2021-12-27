@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodZilla</string>
+    <string name="order_food">Заказать еду</string>
+    <string name="order">Оформить</string>
+    <string name="my_order">Мой заказ</string>
+    <string name="order_dishes">Блюд на сумму</string>
+    <string name="delivery_cost">Доставка</string>
+    <string name="service_task">Сервисный сбор</string>
+    <string name="total">Итог</string>
+    <string name="homeBtn">Домой</string>
+    <string name="profileBtn">Профиль</string>
+    <string name="supportBtn">Поддержка</string>
+    <string name="settingsBtn">Настройки</string>
+    <string name="helloMsg">Привет</string>
+    <string name="mainSub">Закажи свою любимую еду</string>
+    <string name="category">Категории</string>
+    <string name="popular">Популярное</string>
+</resources>
